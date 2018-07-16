@@ -8,3 +8,4 @@ This is a starting point for the Activerecord Basics lecture using sqlite. Durin
 - Explain `config/database.yml`
 - Run `rake db:create` / `rake db:drop`
 - Create and run 2 migrations
+Good Luck
